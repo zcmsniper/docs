@@ -81,7 +81,7 @@ msgstr ""
 "确保在主数据中心中有多数 :ref:`参与投票的节点 <replica-set-non-voting-"
 "members>`  ，\"Site A\" 。其中也包含了 :doc:`priority 0 members </core/"
 "replica-set-priority-0-member>`  和 :doc:`arbiters </core/replica-set-"
-"arbiter>` 。将其他节点部署与其他的数据中心中。关于异地分布式复制集的投票需求"
+"arbiter>` 。将其他节点部署于其他的数据中心中。关于异地分布式复制集的投票需求"
 "请参考 :ref:`determine-geographic-distribution` 。"
 
 #: ../source/tutorial/deploy-geographically-distributed-replica-set.txt:46
