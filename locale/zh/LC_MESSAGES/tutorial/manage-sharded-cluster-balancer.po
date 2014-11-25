@@ -279,7 +279,7 @@ msgid ""
 "Never run a backup while the balancer is active. To ensure that the balancer "
 "is inactive during your backup operation:"
 msgstr ""
-"如果在进行 :doc:`备份 </core/backups>` 期间MongoDB歉意了数据块,可能造成不一致"
+"如果在进行 :doc:`备份 </core/backups>` 期间MongoDB迁移了数据块,可能造成不一致"
 "的备份结果.因此在备份期间要保证均衡过程一定不能运行."
 
 #: ../source/tutorial/manage-sharded-cluster-balancer.txt:241
@@ -340,7 +340,7 @@ msgstr ""
 msgid ""
 "When you disable balancing on a collection, MongoDB will not interrupt in "
 "progress migrations."
-msgstr "在禁用某个集合上的均衡过程时,MongoDB不会终端进行中的均衡."
+msgstr "在禁用某个集合上的均衡过程时,MongoDB不会终止进行中的均衡."
 
 #: ../source/tutorial/manage-sharded-cluster-balancer.txt:274
 msgid ""
